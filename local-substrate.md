@@ -1,3 +1,3 @@
 Local Substrate Development Chain
 
-![](./images/localhost_8000.png)
+![](https://github.com/nnnkit/hello_world/blob/master/images/localhost_8000.png?raw=true)
