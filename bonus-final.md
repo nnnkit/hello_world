@@ -1,7 +1,7 @@
 ## Account Addresses
 
-Polkadot (DOT) Address: `15p7R24VVdhWWj1r4nxgLMJtFr2MnV7sNUvhdFGdJcH8Ki1L`
-Kusama Address: `HPRw19JGDSxpqpmsrij69qjYpJwtrNukN2xrcZEEKU6tTQ7`
+- Polkadot (DOT) Address: `15p7R24VVdhWWj1r4nxgLMJtFr2MnV7sNUvhdFGdJcH8Ki1L`
+- Kusama Address: `HPRw19JGDSxpqpmsrij69qjYpJwtrNukN2xrcZEEKU6tTQ7`
 
 1. [[BEGINNER CHALLENGE] Launch A Local Substrate Development Chain](https://github.com/nnnkit/hello_world/blob/master/local-substrate.md)
 2. [[BEGINNER CHALLENGE] Run A Private Substrate Network](https://github.com/nnnkit/hello_world/blob/master/private.md)
