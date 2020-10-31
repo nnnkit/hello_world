@@ -8,7 +8,7 @@
 3. [[BEGINNER CHALLENGES] Play With Westend](https://github.com/nnnkit/hello_world/blob/master/westend.md)
 4. [[BEGINNER CHALLENGE] Run A Kusama Or Polkadot Node And Add It To Telemetry](https://github.com/nnnkit/hello_world/blob/master/telemetry.md)
 5. [[BEGINNER CHALLENGES] Front-End Javascript](https://dot-frontend.netlify.app/)
-6. [[BEGINNER CHALLENGES] Front-End Javascript](https://github.com/nnnkit/hello_world/tree/master/backend-js)
+6. [[BEGINNER CHALLENGES] Back-End Javascript](https://github.com/nnnkit/hello_world/tree/master/backend-js)
 7. [[BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version](https://github.com/nnnkit/hello_world/blob/master/identity.md)
 8. [[INTERMEDIATE CHALLENGE] FRAME Identity: Set An Identity On A Local --Dev Chain](https://github.com/nnnkit/hello_world/blob/master/identity.md)
 9. [[ADVANCED CHALLENGE] REST APIs - Read An Account's Pending Payouts](https://github.com/nnnkit/hello_world/tree/master/account-pending-payout)
