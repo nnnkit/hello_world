@@ -16,3 +16,7 @@
 ### Using deployed token:
 
 ![](https://github.com/nnnkit/hello_world/blob/master/smart-contract-with-ink/call-result.png?raw=true)
+
+### Deployed Contract with Token name "FLIPPER"
+
+![](https://github.com/nnnkit/hello_world/blob/master/smart-contract-with-ink/Screenshot%202020-11-01%20at%205.39.08%20AM.png)
