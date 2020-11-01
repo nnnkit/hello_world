@@ -26,16 +26,15 @@ Go to this link [Link](https://polkadot.js.org/apps/?rpc=ws%3A%2F%2F127.0.0.1%3A
 
 #### Substrate Node:
 
-![](https://github.com/nnnkit/hello_world/blob/master/frame-development/Screenshot%202020-11-01%20at%205.38.00%20PM.png?raw=true)
+![](https://github.com/nnnkit/hello_world/blob/master/frame-multisig/Screenshot%202020-11-01%20at%209.13.38%20PM.png?raw=true)
 
 #### Add Multisig Transaction
 
-![]()
-![]()
+![](https://github.com/nnnkit/hello_world/blob/master/frame-multisig/Screenshot%202020-11-01%20at%209.02.35%20PM.png?raw=true)
+![](https://github.com/nnnkit/hello_world/blob/master/frame-multisig/Screenshot%202020-11-01%20at%209.08.46%20PM.png?raw=true)
 ![]()
 
 #### Check Multisig Transaction HASH
 
-![]()
-![]()
-![]()
+![](https://github.com/nnnkit/hello_world/blob/master/frame-multisig/Screenshot%202020-11-01%20at%209.02.57%20PM.png?raw=true)
+![](https://github.com/nnnkit/hello_world/blob/master/frame-multisig/polkadot.js.org_apps_.png?raw=true)
