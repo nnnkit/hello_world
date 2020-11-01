@@ -22,8 +22,8 @@ yarn start
 
 Substrate Node:
 
-![]()
+![](https://github.com/nnnkit/hello_world/blob/master/frame-development/Screenshot%202020-11-01%20at%205.38.00%20PM.png?raw=true)
 
-Add New Book and Authore:
+Add New Book and Author:
 
-![]()
+![](https://github.com/nnnkit/hello_world/blob/master/frame-development/Screenshot%202020-11-01%20at%205.37.26%20PM.png?raw=true)
