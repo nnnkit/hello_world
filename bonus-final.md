@@ -11,5 +11,6 @@
 6. [[BEGINNER CHALLENGES] Back-End Javascript](https://github.com/nnnkit/hello_world/tree/master/backend-js)
 7. [[BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version](https://github.com/nnnkit/hello_world/blob/master/identity.md)
 8. [[INTERMEDIATE CHALLENGE] FRAME Identity: Set An Identity On A Local --Dev Chain](https://github.com/nnnkit/hello_world/blob/master/identity.md)
-9. [[ADVANCED CHALLENGE] REST APIs - Read An Account's Pending Payouts](https://github.com/nnnkit/hello_world/tree/master/account-pending-payout)
-10. [[ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network](https://github.com/nnnkit/local-phala-network/blob/master/README.md)
+9. [[INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!](https://github.com/nnnkit/hello_world/tree/master/smart-contract-with-ink)
+10. [[ADVANCED CHALLENGE] REST APIs - Read An Account's Pending Payouts](https://github.com/nnnkit/hello_world/tree/master/account-pending-payout)
+11. [[ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network](https://github.com/nnnkit/local-phala-network/blob/master/README.md)
