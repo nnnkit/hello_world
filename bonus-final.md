@@ -14,5 +14,6 @@
 9. [[INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!](https://github.com/nnnkit/hello_world/tree/master/smart-contract-with-ink)
 10. [[INTERMEDIATE CHALLENGE] FRAME Development](https://github.com/nnnkit/hello_world/tree/master/frame-development)
 11. [[INTERMEDIATE CHALLENGE] FRAME Multisig](https://github.com/nnnkit/hello_world/tree/master/frame-development)
-12. [[ADVANCED CHALLENGE] REST APIs - Read An Account's Pending Payouts](https://github.com/nnnkit/hello_world/tree/master/account-pending-payout)
-13. [[ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network](https://github.com/nnnkit/local-phala-network/blob/master/README.md)
+12. [[INTERMEDIATE CHALLENGE] Forkless Upgrades](https://github.com/nnnkit/hello_world/tree/master/forkless-upgrades)
+13. [[ADVANCED CHALLENGE] REST APIs - Read An Account's Pending Payouts](https://github.com/nnnkit/hello_world/tree/master/account-pending-payout)
+14. [[ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network](https://github.com/nnnkit/local-phala-network/blob/master/README.md)
