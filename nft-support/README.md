@@ -28,7 +28,7 @@ Substrate Node:
 
 ![](https://github.com/nnnkit/hello_world/blob/master/nft-support/Screenshot%202020-11-03%20at%208.17.06%20PM.png?raw=true)
 
-Add New Book and Author:
+Adding and minting NFTs:
 
 ![](https://github.com/nnnkit/hello_world/blob/master/nft-support/Screenshot%202020-11-03%20at%208.14.58%20PM.png?raw=true)
 ![](https://github.com/nnnkit/hello_world/blob/master/nft-support/Screenshot%202020-11-03%20at%208.15.40%20PM.png?raw=true)
