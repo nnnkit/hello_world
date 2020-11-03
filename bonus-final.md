@@ -16,5 +16,6 @@
 11. [[INTERMEDIATE CHALLENGE] FRAME Multisig](https://github.com/nnnkit/hello_world/tree/master/frame-development)
 12. [[INTERMEDIATE CHALLENGE] Forkless Upgrades](https://github.com/nnnkit/hello_world/tree/master/forkless-upgrades)
 13. [[INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network](https://youtu.be/VhjtLS2vTlM)
-14. [[ADVANCED CHALLENGE] REST APIs - Read An Account's Pending Payouts](https://github.com/nnnkit/hello_world/tree/master/account-pending-payout)
-15. [[ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network](https://github.com/nnnkit/local-phala-network/blob/master/README.md)
+14. [[ECOSYSTEM CHALLENGE] Enable Multi-Currency Support](https://github.com/nnnkit/hello_world/tree/master/multi-currency)
+15. [[ADVANCED CHALLENGE] REST APIs - Read An Account's Pending Payouts](https://github.com/nnnkit/hello_world/tree/master/account-pending-payout)
+16. [[ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network](https://github.com/nnnkit/local-phala-network/blob/master/README.md)
