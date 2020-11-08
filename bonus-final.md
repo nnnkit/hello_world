@@ -21,4 +21,5 @@
 16. [[ECOSYSTEM CHALLENGE] Using Remix And MetaMask On Moonbeam](https://github.com/nnnkit/hello_world/moonbeam-remix.md)
 17. [[ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle](https://github.com/nnnkit/hello_world/blob/master/truffle/README.md)
 18. [[ADVANCED CHALLENGE] REST APIs - Read An Account's Pending Payouts](https://github.com/nnnkit/hello_world/tree/master/account-pending-payout)
-19. [[ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network](https://github.com/nnnkit/local-phala-network/blob/master/README.md)
+19. [[ADVANCED CHALLENGE] Build A DApp](https://github.com/nnnkit/hello_world/tree/master/digital-ownership-dapp)
+20. [[ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network](https://github.com/nnnkit/local-phala-network/blob/master/README.md)
